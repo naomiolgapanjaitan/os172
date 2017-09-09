@@ -1,0 +1,4 @@
+w00-170831-19-LR-About: Introduction to Operating System, From : Lecturer
+w00-170831-19-LR-About: Introduction to Operating System, From : Lecturer
+w00-170902-19-PS-About: Learning Git 
+w00-170903-19-LR-About: Make Memo for week0

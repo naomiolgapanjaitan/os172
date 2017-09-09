@@ -1,0 +1,5 @@
+w00-170707-19-LR-About: Learning HKI, Scripting , for making memo week01
+w00-170907-19-LR-About: Learning HKI, Scripting , From :Lecturer
+w00-170907-19-LR-About: Demo Scripiting, From : Lecturer
+w00-170909-08-PS-About: Completing task for week01
+w00-170903-09-LR-About: Completing task for week01
